@@ -1,4 +1,4 @@
 package com.duyi;
 
-public class Demo {
+public class Demo2 {
 }
